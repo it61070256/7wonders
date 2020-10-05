@@ -18,7 +18,7 @@ body {
     position:absolute;
     height: 100%;
     width: 0.5%;
-    background-color:rgb(238, 156, 156); 
+    background-color:lightseagreen; 
     }
 .rr {
       display: flex;
@@ -28,7 +28,7 @@ body {
       margin-left: 99.5%;
       height: 100%;
       width: 0.5%;
-      background-color:rgb(238, 156, 156); 
+      background-color:lightseagreen; 
       }
 .tt {
   display: flex;
@@ -38,7 +38,7 @@ body {
   margin-top: 0%;
   height: 1%;
   width: 100%;
-  background-color:rgb(238, 156, 156); 
+  background-color:lightseagreen; 
   }
 .bb {
     display: flex;
@@ -48,5 +48,5 @@ body {
     margin-top: 50%;
     height: 1%;
     width: 100%;
-    background-color:rgb(238, 156, 156); 
+    background-color:lightseagreen; 
     }
