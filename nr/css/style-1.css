@@ -11,6 +11,14 @@ body {
     overflow: hidden;
     z-index: -1;
   }
+  .fish
+  {
+    position: absolute;
+    top: 380px;
+    left: 950px;
+    height: 100px;
+    width: 100px;
+  }
 .ll {
     display: flex;
     justify-content: right;
