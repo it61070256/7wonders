@@ -1,0 +1,13 @@
+.first{
+  margin: auto;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+
+body{
+	/* min-height: 100vh; */
+	display: flex;
+  background:black;
+  padding: 20%;
+}
